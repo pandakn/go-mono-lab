@@ -1,7 +1,7 @@
 go 1.23.1
 
 use (
-	./pkg/logger
+	./pkg
 	./services/blogs
 	./services/users
 )
